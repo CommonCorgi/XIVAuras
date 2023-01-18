@@ -6,7 +6,7 @@
         "InternalName": "XIVAuras",
         "AssemblyVersion": "0.2.4.0",
         "TestingAssemblyVersion": "0.2.4.0",
-        "RepoUrl": "https://github.com/lichie567/XIVAuras",
+        "RepoUrl": "https://github.com/CommonCorgi/XIVAuras",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "IsHide": "False",
